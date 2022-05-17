@@ -31,7 +31,7 @@ categories:
 
 具体来看嘛...长这个样子：
 
-![pm112.png](NN2_pm112.png)
+![NN2_pm112.png](NN2_pm112.png)
 
 *pm112.png - 引用自程序下载页面*
 
