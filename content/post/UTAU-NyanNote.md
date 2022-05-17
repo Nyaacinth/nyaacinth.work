@@ -21,7 +21,8 @@ categories:
 
 如果使用 PlayOnLinux 等工具创建了隔离的 Wine 环境此处建议将 `LANG=ja_JP.UTF-8` 添加到在运行程序前执行的命令中防止部分插件的乱码（等效于 Windows 的转区操作）
 
->提示：在此之前请在 `/etc/locale.gen` 中反注释 `ja_JP.UTF-8` 一行并执行 `locale-gen` 以添加所需的 Locale</br>
+>提示：在此之前请在 `/etc/locale.gen` 中反注释 `ja_JP.UTF-8` 一行并执行 `locale-gen` 以添加所需的 Locale
+
 >参考： [Locale (简体中文) - ArchWiki](https://wiki.archlinux.org/index.php/Locale_\(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87\))
 
 ## 选择合成引擎
