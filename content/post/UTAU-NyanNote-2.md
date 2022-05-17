@@ -3,13 +3,11 @@ title: UTAU 调声喵手记（二）
 date: 2021-05-04 15:57:03
 categories:
 - 笔记
-tags:
-- UTAU
 ---
 
 ：话说... UTAU 居然已经 13 年了吗　（同时也停更 7 年了，悲
 
->推荐先阅读 [UTAU 调声喵手记](/2021/03/21/UTAU-NyanNote) 以获得更佳的阅读体验
+>推荐先阅读 [UTAU 调声喵手记](/post/utau-nyannote) 以获得更佳的阅读体验
 
 咳咳，咱来兑现承诺了（
 
