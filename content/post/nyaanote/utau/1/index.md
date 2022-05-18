@@ -7,8 +7,6 @@ categories:
 
 本喵在调声时的一些心得技巧，以及一些推荐的工具
 
-<!--more-->
-
 >由于 Nyaacinth 自己所使用的系统为 Archlinux，故本文主要面向使用 Linux 发行版与 Wine 的情境作成。
 
 ## 本体安装与汉化

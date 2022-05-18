@@ -7,8 +7,6 @@ categories:
 
 如你所见，这是藏身于互联网角落的小小博客之一。记录着它的小主子整天喵喵喵的日常。
 
-<!--more-->
-
 oωo 喵！
 
 *本博客基于* [*Hugo*](https://gohugo.io) *构建，使用主题：* [*Stack*](https://github.com/CaiJimmy/hugo-theme-stack)
