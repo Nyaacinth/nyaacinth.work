@@ -53,7 +53,7 @@ function HelloMessage(props) {
 
 > 这实际上非常的快，主要是因为多数 DOM 操作太慢。有大量耗费性能的任务被放在 DOM 中，但如此 DOM 操作就带来了掉帧。
 
-![rethinking-best-practices.jpg](./rethinking-best-practices.jpg)
+![rethinking-best-practices.jpg](rethinking-best-practices.jpg)
 
 *截图来自 [Rethinking Best Practices](https://www.youtube.com/watch?v=x7cQ3mrcKaY)在 JSConfEU 2013*
 
